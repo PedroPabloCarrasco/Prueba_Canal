@@ -2,14 +2,4 @@ hola mundo
 
 Que taaal?
 Este es otro cambio
-
-*/Estructura html */
-
-<head></head>
-<header></header>
-<body></body>
-<footer></footer>
-
-<div>
-</div>
-
+ Otro cmabio más!
