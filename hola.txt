@@ -10,4 +10,3 @@ Este es otro cambio
 <body></body>
 <footer></footer>
 
-Este es un error
